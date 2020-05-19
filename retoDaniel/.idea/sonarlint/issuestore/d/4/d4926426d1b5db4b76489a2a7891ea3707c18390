@@ -1,0 +1,14 @@
+
+ž
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ƒâ”Œ8Íµ’¯¢.
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ƒ¼ÚÍþÿÿÿÿ8£€‘¯¢.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñÀÐŽøÿÿÿÿ
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(œÝé‡ûÿÿÿÿ8£€‘¯¢.
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(œÝé‡ûÿÿÿÿ8Íµ’¯¢.
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ƒ¼ÚÍþÿÿÿÿ8Íµ’¯¢.
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ë½ˆÂýÿÿÿÿ8£€‘¯¢.
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ƒâ”Œ8£€‘¯¢.
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ë½ˆÂýÿÿÿÿ8Íµ’¯¢.
